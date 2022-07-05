@@ -1,0 +1,6 @@
+Bundle-Name: device-detection
+Bundle-SymbolicName: com.liferay.samples.fbo.device.detection
+Bundle-Version: 1.0.0
+Liferay-Theme-Contributor-Type: device-detection
+Web-ContextPath: /device-detection-theme-contributor
+Export-Package: com.liferay.samples.fbo.device.detection.api

@@ -1,0 +1,4 @@
+Bundle-Name: sample-portlet
+Bundle-SymbolicName: com.liferay.samples.fbo.sample
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.samples.fbo.sample.constants
